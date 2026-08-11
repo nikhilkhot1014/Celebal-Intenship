@@ -1,7 +1,0 @@
-source_file,bronze_file,rows,columns,ingested_at,size_bytes
-cust_info.csv,crm_cust_info.csv,18494,"['cst_id', 'cst_key', 'cst_firstname', 'cst_lastname', 'cst_marital_status', 'cst_gndr', 'cst_create_date']",2026-08-11T15:04:51.672389Z,855395
-prd_info.csv,crm_prd_info.csv,397,"['prd_id', 'prd_key', 'prd_nm', 'prd_cost', 'prd_line', 'prd_start_dt', 'prd_end_dt']",2026-08-11T15:04:51.678011Z,26934
-sales_details.csv,crm_sales_details.csv,60398,"['sls_ord_num', 'sls_prd_key', 'sls_cust_id', 'sls_order_dt', 'sls_ship_dt', 'sls_due_dt', 'sls_sales', 'sls_quantity', 'sls_price']",2026-08-11T15:04:51.761211Z,3588116
-CUST_AZ12.csv,erp_cust_az12.csv,18484,"['CID', 'BDATE', 'GEN']",2026-08-11T15:04:51.780070Z,561549
-LOC_A101.csv,erp_loc_a101.csv,18484,"['CID', 'CNTRY']",2026-08-11T15:04:51.796734Z,402669
-PX_CAT_G1V2.csv,erp_px_cat_g1v2.csv,37,"['ID', 'CAT', 'SUBCAT', 'MAINTENANCE']",2026-08-11T15:04:51.801425Z,1169
